@@ -613,14 +613,14 @@ contents
 	.site_data table th {
 		padding: 7px;
 		font-weight:normal;
-		font-size: 11px;
+		font-size: 12px;
 	}
 	.site_data table td {
-		font-size: 13px;
+		font-size: 15px;
 		padding: 7px;
 	}
 	.site_text {
-		font-size: 14px;
+		font-size: 15px;
 		line-height: 19px;
 	}
 	.site_result {
@@ -639,8 +639,8 @@ contents
 	}
 	.site_voice {
 		width: 100%; 
-		font-size: 12px;
-		line-height: 18px;
+		font-size: 13px;
+		line-height: 20px;
 		border-radius: 5px;
 		padding: 10px;
 		margin: 10px auto 0;
